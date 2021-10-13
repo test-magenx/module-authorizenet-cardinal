@@ -1,5 +1,5 @@
 {
-    "name": "test-magenx/module-authorizenet-cardinal",
+    "name": "magenxcommerce/module-authorizenet-cardinal",
     "description": "Provides a possibility to enable 3-D Secure 2.0 support for Authorize.Net Acceptjs.",
     "config": {
         "sort-packages": true
